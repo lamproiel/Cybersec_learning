@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "dc93f07e017aaee4",
+    "type": "split",
+    "children": [
+      {
+        "id": "edee453060145ee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1330964de9e6df8a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6daaa89a3046db90",
+    "type": "split",
+    "children": [
+      {
+        "id": "862f06ea94f8e117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a695f6d0cdf2c1b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "cbf0c9fd9a81cf14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f59545e4ccb99ab8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db37ddf8652aeec1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cb6004e91169bf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "664abf87951bbbc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1ebefad20aba693b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c7bdae1be8199054",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "719cc59355cbc643",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0d484456827f57c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "1330964de9e6df8a",
+  "lastOpenFiles": [
+    "1 фундаментальные основы/1.1 компьютерные сети/1) модель TCP, IP/- TCP,  IP.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/1) модель TCP, IP/Без названия.canvas",
+    "1 фундаментальные основы/1.1 компьютерные сети/1) модель TCP, IP/Без названия.base",
+    "1 фундаментальные основы/1.1 компьютерные сети/1) модель TCP, IP/Прикладной.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/1) модель TCP, IP/Канальный.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/1) модель TCP, IP/Межсетевой.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/1) модель TCP, IP/Транспортный.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/1) модель TCP, IP.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/7) NAT и PAT",
+    "1 фундаментальные основы/1.1 компьютерные сети/6) routing",
+    "1 фундаментальные основы/1.1 компьютерные сети/5) DNS",
+    "1 фундаментальные основы/1.1 компьютерные сети/4) ARP",
+    "1 фундаментальные основы/1.1 компьютерные сети/3) протоколы",
+    "1 фундаментальные основы/1.1 компьютерные сети/2) IP-адресация и подсети",
+    "1 фундаментальные основы/1.1 компьютерные сети/1) модель TCP, IP",
+    "1 фундаментальные основы/1.1 компьютерные сети/Транспортный.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/Канальный.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/Межсетевой.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/2) IP-адресация и подсети.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/Прикладной.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/5) DNS.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/6) Routing.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/4) ARP.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/3) протоколы TCP, UDP.md",
+    "1 фундаментальные основы/1.1 компьютерные сети/7) NAT и PAT.md",
+    "фуБез названия.md",
+    "2 offensive security",
+    "1 фундаментальные основы/1.3 криптография",
+    "TCP_IP.md.md",
+    "Без названия 2.md",
+    "Untitled.md"
+  ]
+}
