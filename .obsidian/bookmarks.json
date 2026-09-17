@@ -1,3 +1,31 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1789392738012,
+      "title": "Граф",
+      "options": {
+        "collapse-filter": false,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [],
+        "collapse-display": false,
+        "showArrow": true,
+        "textFadeMultiplier": -2.7,
+        "nodeSizeMultiplier": 1.13149263721553,
+        "lineSizeMultiplier": 3.48227911646586,
+        "collapse-forces": false,
+        "centerStrength": 0.433232931726908,
+        "repelStrength": 20,
+        "linkStrength": 1,
+        "linkDistance": 117,
+        "scale": 0.5443310758771107,
+        "close": true
+      }
+    }
+  ]
 }
