@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Primary",
+  "accentColor": "#4b4068",
+  "theme": "obsidian",
   "baseFontSize": 20,
-  "accentColor": "#a659c9",
-  "theme": "obsidian"
+  "cssTheme": "Primary"
 }
