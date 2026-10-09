@@ -4,3 +4,6 @@ access_audit
 *.out
 app
 app.exe
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
