@@ -1,2 +1,6 @@
 .trash/
 .obsidian/
+access_audit
+*.out
+app
+app.exe
