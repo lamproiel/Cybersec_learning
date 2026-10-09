@@ -89,6 +89,7 @@
 ## IPv6 и Neighbor Discovery
 
 - в IPv6 нет ARP. Его роль выполняет NDP, Neighboor Discovery Protocol, и работает он через ICMPv6.
+	- NDP — это аналог ARP для IPv6, но работает он умнее и выполняет больше задач.
 
 - основные сообщения:
 	- Neighbor Solicitation - аналог ARP request, кто здесь с этим адресом
