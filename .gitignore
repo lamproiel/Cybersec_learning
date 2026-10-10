@@ -9,3 +9,9 @@ app.exe
 .obsidian/cache/
 .vscode/
 **/.vscode/
+cpp-projects/main
+cpp-projects/access_audit
+cpp-projects/*.o
+cpp-projects/*.exe
+cpp-projects/*.out
+main
